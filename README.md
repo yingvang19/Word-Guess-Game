@@ -1,4 +1,4 @@
-# Word-Guess-Game
+## Word-Guess-Game
 #What is this repository or project? 
 I have created this guess game for a homework assignment for my Coding Boot Camp.
 The theme I have chosen was the movies in the 80’s.
